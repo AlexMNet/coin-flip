@@ -1,0 +1,26 @@
+.Coinflip-btn-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.Coinflip-btn {
+  border: none;
+  padding: 15px 25px;
+  display: inline-block;
+  width: 150px;
+  margin: 15px 0;
+  color: #fff;
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.flip {
+  background-color: #33b5e5;
+}
+
+.reset {
+  background-color: #ff4444;
+}
